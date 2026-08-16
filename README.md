@@ -208,6 +208,7 @@ KPI Development
 Interactive Dashboard
           ↓
 Business Analysis
+```
 
 ## 🧹 Data Preparation Activities
 
