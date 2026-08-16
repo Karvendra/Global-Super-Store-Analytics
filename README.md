@@ -6,11 +6,11 @@
 
 ## 📊 Dashboard Preview
 
-![Global Super Store Dashboard](Preview/Global%20Super%20Store.png)
+![Global Super Store Dashboard](Global%20Super%20Store.png)
 
-![Global Super Store Sales](Preview/Global%20Super%20Store%20Sales.png)
+![Global Super Store Sales](Global%20Super%20Store%20Sales.png)
 
-![Global Super Store Product](Preview/Global%20Super%20Store%20Product.png)
+![Global Super Store Product](Global%20Super%20Store%20Product.png)
 
 ---
 
