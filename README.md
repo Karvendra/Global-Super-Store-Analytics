@@ -209,10 +209,7 @@ Interactive Dashboard
           ↓
 Business Analysis
 
-
-
-
-Data Preparation Activities
+🧹 Data Preparation Activities
 
 The data preparation process includes:
 
@@ -321,11 +318,7 @@ Global-Super-Store-Analytics/
 🚀 How to Use
 Clone or download this repository.
 Navigate to the Dashboard folder.
-
-Open:
-
-Global Super Store Sales Metrics.pbix
-
+Open Global Super Store Sales Metrics.pbix.
 Open the report using Microsoft Power BI Desktop.
 Use the available filters and slicers to explore the dashboard.
 Interact with the visuals to analyze different business dimensions.
