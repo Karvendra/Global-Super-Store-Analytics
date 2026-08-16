@@ -210,115 +210,142 @@ Interactive Dashboard
 Business Analysis
 ```
 
+---
+
 ## 🧹 Data Preparation Activities
 
 The data preparation process includes:
 
-Data type validation
-Data cleaning
-Handling data inconsistencies
-Column transformation
-Date preparation
-Category and sub-category preparation
-Geographic data preparation
-Creation of calculated measures
-Data modeling for analytical reporting
-🧮 DAX & Analytical Calculations
+- Data type validation
+- Data cleaning
+- Handling data inconsistencies
+- Column transformation
+- Date preparation
+- Category and sub-category preparation
+- Geographic data preparation
+- Creation of calculated measures
+- Data modeling for analytical reporting
+
+---
+
+## 🧮 DAX & Analytical Calculations
 
 DAX is used to create analytical measures and KPIs required for the dashboard.
 
 Examples of analytical calculations include:
 
-Total Sales
-Total Profit
-Total Quantity
-Total Orders
-Average Order Value
-Profit Margin
-Sales contribution
-Profit contribution
-Time-based performance metrics
-🛠️ Tools & Technologies
-Business Intelligence
-Microsoft Power BI Desktop
-Data Transformation
-Power Query
-Data Analysis
-DAX
-Data Source
-Microsoft Excel
-Visualization
-KPI Cards
-Bar Charts
-Column Charts
-Line Charts
-Tables
-Matrix Visuals
-Geographic Visuals
-Interactive Filters & Slicers
-📊 Dashboard Design
+- Total Sales
+- Total Profit
+- Total Quantity
+- Total Orders
+- Average Order Value
+- Profit Margin
+- Sales Contribution
+- Profit Contribution
+- Time-based performance metrics
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Business Intelligence
+
+- Microsoft Power BI Desktop
+
+### Data Transformation
+
+- Power Query
+
+### Data Analysis
+
+- DAX
+
+### Data Source
+
+- Microsoft Excel
+
+### Visualization
+
+- KPI Cards
+- Bar Charts
+- Column Charts
+- Line Charts
+- Tables
+- Matrix Visuals
+- Geographic Visuals
+- Interactive Filters & Slicers
+
+---
+
+## 📊 Dashboard Design
 
 The dashboard is designed to provide an interactive analytical experience.
 
 Users can explore the data using filters and visual interactions to analyze:
 
-Sales
-Profit
-Products
-Customers
-Regions
-Markets
-Categories
-Time periods
+- Sales
+- Profit
+- Products
+- Customers
+- Regions
+- Markets
+- Categories
+- Sub-Categories
+- Time periods
 
-The dashboard structure is focused on presenting business-critical information in a concise and decision-oriented format.
+The dashboard structure focuses on presenting business-critical information in a concise and decision-oriented format.
 
-💡 Business Insights
+---
+
+## 💡 Business Insights
 
 The analysis can help stakeholders identify:
 
-High-performing markets and regions
-Products contributing significantly to revenue
-Products generating higher profitability
-Low-performing products and categories
-High-value customers
-Regional profitability differences
-Sales trends over time
-Opportunities for improving margins
-Areas requiring further investigation
+- High-performing markets and regions
+- Products contributing significantly to revenue
+- Products generating higher profitability
+- Low-performing products and categories
+- High-value customers
+- Regional profitability differences
+- Sales trends over time
+- Profitability trends
+- Opportunities for improving margins
+- Areas requiring further investigation
 
-Note: Specific business conclusions should be interpreted based on the selected filters and dashboard views.
+> **Note:** Specific business conclusions should be interpreted based on the selected filters and dashboard views.
 
-📈 Business Impact
+---
+
+## 📈 Business Impact
 
 The dashboard can support business teams in:
 
-Monitoring overall business performance
-Identifying revenue opportunities
-Improving product portfolio decisions
-Understanding regional performance
-Identifying profitable customer segments
-Improving sales strategy
-Supporting management reporting
-Enabling data-driven decision-making
-📂 Repository Structure
+- Monitoring overall business performance
+- Identifying revenue opportunities
+- Improving product portfolio decisions
+- Understanding regional performance
+- Identifying profitable customer segments
+- Improving sales strategy
+- Supporting management reporting
+- Enabling data-driven decision-making
+
+---
+
+## 📂 Repository Structure
+
+```text
 Global-Super-Store-Analytics/
 │
 ├── README.md
 │
-├── Dashboard/
-│   └── Global Super Store Sales Metrics.pbix
-│
-├── Preview/
-│   ├── Global Super Store.png
-│   ├── Global Super Store Sales.png
-│   └── Global Super Store Product.png
-│
-└── Data/
-    └── global_superstore_2016.xlsx
+├── Global Super Store Sales Metrics.pbix
+├── Global Super Store.png
+├── Global Super Store Sales.png
+├── Global Super Store Product.png
+└── global_superstore_2016.xlsx
+
 🚀 How to Use
 Clone or download this repository.
-Navigate to the Dashboard folder.
 Open Global Super Store Sales Metrics.pbix.
 Open the report using Microsoft Power BI Desktop.
 Use the available filters and slicers to explore the dashboard.
@@ -332,13 +359,9 @@ Global Super Store Sales.png	Sales analysis preview
 Global Super Store Product.png	Product analysis preview
 README.md	Project documentation
 ⚠️ Data & File Notes
-
-The Power BI report is provided as a portfolio demonstration project.
-
-The source dataset is included in the repository for reproducibility and to allow users to understand the data structure used for the analysis.
-
+This Power BI report is provided as a portfolio demonstration project.
+The source dataset is included for reference and reproducibility.
 The .pbix file should be opened using a compatible version of Microsoft Power BI Desktop.
-
 👤 Author
 Karvendra Singh
 
@@ -354,26 +377,13 @@ Business Analysis | Power BI | SQL | Python | E-commerce Analytics
 
 This project is part of my professional Data Analytics & Business Intelligence Portfolio.
 
-It demonstrates the ability to transform retail data into an interactive analytical solution using:
-
-Business Intelligence
-Data Analysis
-Power BI
-Power Query
-DAX
-Data Modeling
-Data Visualization
-Business Insights
-
-The project focuses not only on dashboard development but also on translating data into meaningful business questions and actionable insights.
+It demonstrates the ability to transform retail data into an interactive analytical solution using Power BI, Power Query, DAX, data modeling, and business analysis.
 
 ⭐ Portfolio
 
 Explore my other Business Intelligence, Data Analytics, Power BI, SQL, Python, and E-commerce Analytics projects on my GitHub profile.
 
 📬 Contact
-
-For professional opportunities, collaboration, or project discussions:
 
 Karvendra Singh
 
