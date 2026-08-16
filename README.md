@@ -209,6 +209,9 @@ Interactive Dashboard
           ↓
 Business Analysis
 
+
+
+
 Data Preparation Activities
 
 The data preparation process includes:
