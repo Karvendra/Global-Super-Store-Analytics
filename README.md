@@ -343,6 +343,7 @@ Global-Super-Store-Analytics/
 ├── Global Super Store Sales.png
 ├── Global Super Store Product.png
 └── global_superstore_2016.xlsx
+```
 
 🚀 How to Use
 Clone or download this repository.
