@@ -345,67 +345,87 @@ Global-Super-Store-Analytics/
 └── global_superstore_2016.xlsx
 ```
 
-🚀 How to Use
-Clone or download this repository.
-Open Global Super Store Sales Metrics.pbix.
-Open the report using Microsoft Power BI Desktop.
-Use the available filters and slicers to explore the dashboard.
-Interact with the visuals to analyze different business dimensions.
+## 🚀 How to Use
 
+1. Clone or download this repository.
+2. Open the repository folder.
+3. Open `Global Super Store Sales Metrics.pbix`.
+4. Open the report using Microsoft Power BI Desktop.
+5. Use the available filters and slicers to explore the dashboard.
+6. Interact with the visuals to analyze different business dimensions.
 
-📁 Files Included
-File	Description
-Global Super Store Sales Metrics.pbix	Main Power BI dashboard
-global_superstore_2016.xlsx	Source dataset
-Global Super Store.png	Main dashboard preview
-Global Super Store Sales.png	Sales analysis preview
-Global Super Store Product.png	Product analysis preview
-README.md	Project documentation
+---
 
-⚠️ Data & File Notes
-This Power BI report is provided as a portfolio demonstration project.
-The source dataset is included for reference and reproducibility.
-The .pbix file should be opened using a compatible version of Microsoft Power BI Desktop.
-The dashboard may require the source Excel file to be available if the Power BI data model needs to be refreshed.
-The repository contains the dashboard, source data, and preview images required to understand the project.
+## 📁 Files Included
 
+| File | Description |
+|---|---|
+| `Global Super Store Sales Metrics.pbix` | Main Power BI dashboard |
+| `global_superstore_2016.xlsx` | Source dataset |
+| `Global Super Store.png` | Main dashboard preview |
+| `Global Super Store Sales.png` | Sales analysis preview |
+| `Global Super Store Product.png` | Product analysis preview |
+| `README.md` | Project documentation |
 
-👤 Author
+---
 
-Karvendra Singh
+## ⚠️ Data & File Notes
+
+- This Power BI report is provided as a portfolio demonstration project.
+- The source dataset is included for reference and reproducibility.
+- The `.pbix` file should be opened using a compatible version of Microsoft Power BI Desktop.
+- The Power BI report may require the source Excel file to be available if the data model needs to be refreshed.
+- The repository contains the dashboard, source dataset, preview images, and project documentation required to understand the project.
+
+---
+
+## 👤 Author
+
+**Karvendra Singh**
 
 Senior Business Operations Analyst
 
-Core Skills: Business Analysis | Power BI | SQL | Python | E-commerce Analytics
+**Core Skills:** Business Analysis | Power BI | SQL | Python | E-commerce Analytics
 
 📍 New Delhi, India
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://linkedin.com/in/karvendra-singh-92311b109/)
 
-📌 About This Project
+---
+
+## 📌 About This Project
 
 This project is part of my professional Data Analytics & Business Intelligence Portfolio.
 
 It demonstrates the ability to transform retail data into an interactive analytical solution using:
 
-Business Intelligence
-Power BI
-Power Query
-DAX
-Data Modeling
-Data Visualization
-Business Analysis
+- Business Intelligence
+- Data Analysis
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
+- Business Insights
 
-The project focuses not only on dashboard development but also on transforming raw business data into meaningful analysis and decision-support insights.
+The project focuses not only on dashboard development but also on translating data into meaningful business questions and actionable insights.
 
-⭐ Portfolio
+---
+
+## ⭐ Portfolio
 
 Explore my other Business Intelligence, Data Analytics, Power BI, SQL, Python, and E-commerce Analytics projects on my GitHub profile.
 
-📬 Contact
+---
+
+## 📬 Contact
 
 For professional opportunities, collaboration, or project discussions:
 
-Karvendra Singh
+**Karvendra Singh**
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://linkedin.com/in/karvendra-singh-92311b109/)
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository and other projects in my portfolio.
